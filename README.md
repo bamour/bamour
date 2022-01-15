@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bamour
+- 👋 Hi, I’m Brad
 - 👀 I’m interested in changing my career path and getting employment in web development.
 - 🌱 I’m currently trying to learn Angular
 
